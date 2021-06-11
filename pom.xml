@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>edu.fpdual.web</groupId>
-	<artifactId>appServices</artifactId>
+	<artifactId>appHotelesServices</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
@@ -54,7 +54,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>appServices</finalName>
+		<finalName>appHotelesServices</finalName>
 		<pluginManagement><!-- lock down plugins versions to avoid using Maven 
 				defaults (may be moved to parent pom) -->
 			<plugins>
